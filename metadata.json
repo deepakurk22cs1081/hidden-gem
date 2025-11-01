@@ -1,0 +1,8 @@
+{
+  "name": "Underrated Food App",
+  "description": "A gamified web application to discover, share, and rate unique, lesser-known food establishments. Discover hidden gems and get personalized AI-powered suggestions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
